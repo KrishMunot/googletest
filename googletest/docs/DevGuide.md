@@ -17,7 +17,7 @@ All Google Test source and pre-built packages are provided under the [New BSD Li
 The Google Test community exists primarily through the [discussion group](http://groups.google.com/group/googletestframework) and the GitHub repository.
 You are definitely encouraged to contribute to the
 discussion and you can also help us to keep the effectiveness of the
-group high by following and promoting the guidelines listed here.
+group high by following and promoting the guidelines listed here.tow
 
 ### Please Be Friendly ###
 
@@ -28,7 +28,7 @@ being courteous is not the same as failing to constructively disagree
 with each other, but it does mean that we should be respectful of each
 other when enumerating the 42 technical reasons that a particular
 proposal may not be the best choice. There's never a reason to be
-antagonistic or dismissive toward anyone who is sincerely trying to
+antagonistic or dismissive towards anyone who is sincerely trying to
 contribute to a discussion.
 
 Sure, C++ testing is serious business and all that, but it's also
